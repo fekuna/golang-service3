@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fekuna/public_projects/golang-service3'
+go run main.go
+make: Leaving directory '/home/fekuna/public_projects/golang-service3'
+ 
